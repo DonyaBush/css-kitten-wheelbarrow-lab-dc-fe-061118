@@ -19,7 +19,7 @@ img {
   left: 369px;
 }
 
-<img src="images/kitty-2.png" alt="Kitty 2">
+<img src="kitty-2.png" alt="Kitty 2">
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
